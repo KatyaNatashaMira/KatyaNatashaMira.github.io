@@ -18,7 +18,7 @@
 
   <section id="about" class="section">
     <h2>О нас</h2>
-    <p>Мы создаём уют и радость через мягкие игрушки ручной работы.  
+    <p>Мы создаём уют и радость с помощью мягких игрушек ручной работы.  
     Каждая игрушка — это частичка тепла, заботы и улыбок для детей и взрослых.</p>
   </section>
 
@@ -27,7 +27,7 @@
     <div class="catalog">
       <div class="toy-card">
         <div class="image-container">
-          <img src="https://cdn.pixabay.com/photo/2016/03/27/21/16/teddy-bear-1282139_1280.jpg" alt="Медвежонок">
+          <img src="https://cdn.pixabay.com/photo/2016/03/27/21/16/teddy-bear-1282139_1280.jpg" alt="Медвежонок Тедди">
         </div>
         <div class="info">
           <h3>Мишка Тедди</h3>
@@ -38,7 +38,7 @@
 
       <div class="toy-card">
         <div class="image-container">
-          <img src="https://cdn.pixabay.com/photo/2017/02/16/12/05/rabbit-2072561_1280.jpg" alt="Кролик">
+          <img src="https://cdn.pixabay.com/photo/2017/02/16/12/05/rabbit-2072561_1280.jpg" alt="Кролик Лулу">
         </div>
         <div class="info">
           <h3>Кролик Лулу</h3>
@@ -49,7 +49,7 @@
 
       <div class="toy-card">
         <div class="image-container">
-          <img src="https://cdn.pixabay.com/photo/2016/02/19/10/00/soft-toy-1205632_1280.jpg" alt="Котик">
+          <img src="https://cdn.pixabay.com/photo/2016/02/19/10/00/soft-toy-1205632_1280.jpg" alt="Котик Мурзик">
         </div>
         <div class="info">
           <h3>Котик Мурзик</h3>
@@ -60,7 +60,7 @@
 
       <div class="toy-card">
         <div class="image-container">
-          <img src="https://cdn.pixabay.com/photo/2016/11/22/23/05/soft-toy-1851679_1280.jpg" alt="Панда">
+          <img src="https://cdn.pixabay.com/photo/2016/11/22/23/05/soft-toy-1851679_1280.jpg" alt="Панда Чиби">
         </div>
         <div class="info">
           <h3>Панда Чиби</h3>
