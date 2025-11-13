@@ -18,26 +18,55 @@
 
   <section id="about" class="section">
     <h2>О нас</h2>
-    <p>Мы создаём уют и радость через мягкие игрушки ручной работы. Каждая игрушка — это частичка тепла и заботы.</p>
+    <p>Мы создаём уют и радость через мягкие игрушки ручной работы.  
+    Каждая игрушка — это частичка тепла, заботы и улыбок для детей и взрослых.</p>
   </section>
 
   <section id="catalog" class="section">
     <h2>Наш каталог</h2>
     <div class="catalog">
       <div class="toy-card">
-        <img src="https://cdn.pixabay.com/photo/2016/03/27/21/16/teddy-bear-1282139_1280.jpg" alt="Медвежонок">
-        <h3>Мишка Тедди</h3>
-        <p>Классический плюшевый мишка.</p>
+        <div class="image-container">
+          <img src="https://cdn.pixabay.com/photo/2016/03/27/21/16/teddy-bear-1282139_1280.jpg" alt="Медвежонок">
+        </div>
+        <div class="info">
+          <h3>Мишка Тедди</h3>
+          <p>Классический плюшевый мишка с бантом и доброй улыбкой.</p>
+          <button class="buy-btn">Купить</button>
+        </div>
       </div>
+
       <div class="toy-card">
-        <img src="https://cdn.pixabay.com/photo/2017/02/16/12/05/rabbit-2072561_1280.jpg" alt="Кролик">
-        <h3>Кролик Лулу</h3>
-        <p>Нежный и пушистый друг для детей.</p>
+        <div class="image-container">
+          <img src="https://cdn.pixabay.com/photo/2017/02/16/12/05/rabbit-2072561_1280.jpg" alt="Кролик">
+        </div>
+        <div class="info">
+          <h3>Кролик Лулу</h3>
+          <p>Нежный и пушистый друг с длинными ушками.</p>
+          <button class="buy-btn">Купить</button>
+        </div>
       </div>
+
       <div class="toy-card">
-        <img src="https://cdn.pixabay.com/photo/2016/02/19/10/00/soft-toy-1205632_1280.jpg" alt="Котик">
-        <h3>Котик Мурзик</h3>
-        <p>Милый котик с бантиком — любимец всех малышей.</p>
+        <div class="image-container">
+          <img src="https://cdn.pixabay.com/photo/2016/02/19/10/00/soft-toy-1205632_1280.jpg" alt="Котик">
+        </div>
+        <div class="info">
+          <h3>Котик Мурзик</h3>
+          <p>Милый котик с бантиком — лучший подарок ребёнку.</p>
+          <button class="buy-btn">Купить</button>
+        </div>
+      </div>
+
+      <div class="toy-card">
+        <div class="image-container">
+          <img src="https://cdn.pixabay.com/photo/2016/11/22/23/05/soft-toy-1851679_1280.jpg" alt="Панда">
+        </div>
+        <div class="info">
+          <h3>Панда Чиби</h3>
+          <p>Очаровательная панда с чёрно-белыми ушками.</p>
+          <button class="buy-btn">Купить</button>
+        </div>
       </div>
     </div>
   </section>
